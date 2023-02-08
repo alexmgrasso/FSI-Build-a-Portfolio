@@ -1,0 +1,40 @@
+body
+{
+    background-color:darkred;
+}
+p
+{
+    color:white;
+}
+h1
+{
+    color:white;
+}
+h2
+{
+    color:white;
+}
+h3
+{
+    color:white;
+}
+ul
+{
+    color:white;
+}
+hr {
+    border: 0;
+    height: 3px;
+    background: white;
+    border: 11px dotted darkred;
+    border-radius: 5px
+}
+h1 {
+    text-shadow: 5px 5px black;
+  }
+  h2 {
+    text-shadow: 5px 5px black;
+  }
+  h3 {
+    text-shadow: 5px 5px black;
+  }
